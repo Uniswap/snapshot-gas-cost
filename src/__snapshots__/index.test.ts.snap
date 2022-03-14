@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`#snapshotGasCost works for a Promise<number> 1`] = `100`;
+
+exports[`#snapshotGasCost works for a number 1`] = `100`;
